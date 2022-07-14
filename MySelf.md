@@ -1,9 +1,9 @@
 ***👋 Hi, This is Nikhil Verma***
-```
+
 I'm pursuing Bachelor of Technology from 
 [ Inderprastha Engineering College ](IPEChttps://www.ipec.org.in)
 specialisation in Computer Science and Engineering
-```
+
  ---[Visit My GitHub](https://github.com/Nikhil741-glitch "@Nikhil741-glitch")---
 
  ---[Visit My LinkedIn](www.linkedin.com/in/nikhil-verma-930096113 "Nikhil Verma")---
